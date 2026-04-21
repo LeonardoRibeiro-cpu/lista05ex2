@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+.titulo{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h2{
+    margin-bottom: 15px;
+}
+h2,h3{
+    color: rgb(8, 8, 207);
+    font-weight: normal;
+}
+ 
+.card{
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 250px;
+    padding: 20px;
+    border: 1px solid rgb(179, 178, 178);
+    text-align: center;
+    margin: 40px 30px;
+}
+.card h3{
+    font-size: 17px;
+}
+ 

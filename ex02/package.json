@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/LeonardoRibeiro-cpu/lista05ex1",
+  "homepage": "https://github.com/LeonardoRibeiro-cpu/lista05ex2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
